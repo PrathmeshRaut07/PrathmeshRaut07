@@ -20,3 +20,16 @@
 📫 Let’s Connect
 
 💌 Email: prathmeshraut150904@gmail.com
+
+## GitHub Stats:
+
+![Prathmesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrathmeshRaut07&show_icons=true&theme=dark&count_private=true)
+
+## Most Used Languages:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrathmeshRaut07&layout=compact&theme=dark&langs_count=8)
+
+## Profile Views:
+
+![Profile Views](https://komarev.com/ghpvc/?username=PrathmeshRaut07&color=blue)
+
