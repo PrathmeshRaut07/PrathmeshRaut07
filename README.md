@@ -35,8 +35,7 @@
 
 ## 🎓 About Me
 - 🔭 Building AI/ML systems: computer vision, NLP, reinforcement learning  
-- 📚 Deep into Meta AI SAM, Llama 2, LongNet & quant-aware transformer training  
-- 💼 AI Engineer @ T&M Services Consulting | Ex-Research Intern @ IIT Hyderabad  
+- 📚 Deep into Meta AI SAM, Llama 2, LongNet & quant-aware transformer training    
 - 🏆 Hackathon champ: Mumbai Hacks ’24, HackHeaven, Datathon ’25, M Indicator  
 
 ---
