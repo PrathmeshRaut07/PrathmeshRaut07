@@ -18,7 +18,7 @@
 
 ## 🔬 Research & Academic Excellence
 - 📈 **CGPA: 9.20/10** (Top 1% at DJSCE Mumbai)
-- 🏥 **Interned at** - ChumsAI,T&M Private Limited, IIT Hyderabad
+- 🏥 **Interned at** - Ex Intern T&M Private Limited
 - 📝 **4+ Research Papers Studied** - Meta AI SAM, Llama 2, LongNet, Quantization-Aware Training
 - 🎯 **Specialization:** Computer Vision, NLP, Reinforcement Learning, Medical AI
 
